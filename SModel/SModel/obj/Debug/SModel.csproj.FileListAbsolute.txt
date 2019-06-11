@@ -1,0 +1,10 @@
+C:\Users\Windows 10 TIMT\source\repos\SModel\SModel\bin\Debug\SModel.exe.config
+C:\Users\Windows 10 TIMT\source\repos\SModel\SModel\bin\Debug\SModel.exe
+C:\Users\Windows 10 TIMT\source\repos\SModel\SModel\bin\Debug\SModel.pdb
+C:\Users\Windows 10 TIMT\source\repos\SModel\SModel\obj\Debug\SModel.csprojResolveAssemblyReference.cache
+C:\Users\Windows 10 TIMT\source\repos\SModel\SModel\obj\Debug\SModel.Form1.resources
+C:\Users\Windows 10 TIMT\source\repos\SModel\SModel\obj\Debug\SModel.Properties.Resources.resources
+C:\Users\Windows 10 TIMT\source\repos\SModel\SModel\obj\Debug\SModel.csproj.GenerateResource.cache
+C:\Users\Windows 10 TIMT\source\repos\SModel\SModel\obj\Debug\SModel.csproj.CoreCompileInputs.cache
+C:\Users\Windows 10 TIMT\source\repos\SModel\SModel\obj\Debug\SModel.exe
+C:\Users\Windows 10 TIMT\source\repos\SModel\SModel\obj\Debug\SModel.pdb
